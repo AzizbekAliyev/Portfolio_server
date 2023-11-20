@@ -1,0 +1,92 @@
+{
+  "servecices": [
+    {
+      "id": 1,
+      "img": "https://www.nextscreen.in/blog/wp-content/uploads/2019/04/Web-Designing-service-modification.-psd.jpg",
+      "title": "Web Design",
+      "text": "Bu servis xizmatimiz orqali siz Website va Mobil Dasturlar uchun Design tayyorlatishingiz va undan foydalanishingiz mumkin."
+    },
+    {
+      "id": 2,
+      "img": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+      "title": "WebSite yaratish",
+      "text": "Bu servis xizmatimiz orqali siz o'z ehtiyojingizga mos Websitelar yaratishingiz va undan o'z maqsadingiz yo'lida foydalanishingiz mumkin."
+    },
+    {
+      "id": 3,
+      "img": "https://blog.kms-solutions.asia/hs-fs/hubfs/mobile%20app.png?width=1092&name=mobile%20app.png",
+      "title": "Mobil dasturlar yaratish",
+      "text": "Bu servis xizmatimiz orqali siz o'z ehtiyojingizga mos Mobil dasturlar yaratishingiz va undan o'z maqsadingiz yo'lida foydalanishingiz mumkin."
+    },
+    {
+      "id": 4,
+      "img": "https://media.licdn.com/dms/image/D4D12AQHsQaiBCSSGWQ/article-cover_image-shrink_720_1280/0/1686007282617?e=2147483647&v=beta&t=xMXgLozNdTBVOZdwTptoN2ggQeRTs3y2nYBndbecay0",
+      "title": "Telegram bot yaratish",
+      "text": "Bu servis xizmatimiz orqali siz o'z ehtiyojingizga mos turli xil Telegram Botlar yaratishingiz va undan o'z maqsadingiz yo'lida foydalanishingiz mumkin."
+    },
+    {
+      "id": 5,
+      "img": "https://images.ctfassets.net/lzny33ho1g45/powerpoint-online-guide-p-img/0ff18a0eafb1af3a9b74f54353f0e2d0/file.png?w=1520&fm=jpg&q=30&fit=thumb&h=760",
+      "title": "Slayd yaratish",
+      "text": "Bu servis xizmatimiz orqali siz o'z ehtiyojingizga mos turli xil chiroyli Slaydlar yaratishingiz va undan o'z maqsadingiz yo'lida foydalanishingiz mumkin."
+    },
+    {
+      "id": 6,
+      "img": "https://www.cnet.com/a/img/resize/daca9bd98e1e7394b11b90893daa16b7191be8d6/hub/2022/12/23/a0fe0ebf-3e47-4602-8116-fbf63d1cc7e3/screenshot-20221223-014747.png?auto=webp&fit=crop&height=675&width=1200",
+      "title": "Word va Excel xizmatlari",
+      "text": "Bu servis xizmatimiz orqali siz o'z ehtiyojingizga mos word va excel xizmatlaridan foydalanishingiz mumkin."
+    },
+    {
+      "id": 7,
+      "img": "https://palam.ca/wp-content/uploads/2020/04/Les-meilleurs-logiciels-de-montage-vid%C3%A9o.jpg",
+      "title": "Video montaj xizmati",
+      "text": "Bu servis xizmatimiz orqali siz o'z ehtiyojingizga mos ajoyib videolar va reklamalar yaratishingiz va foydalanishingiz mumkin."
+    },
+    {
+      "id": 8,
+      "img": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image9gdi-1690545903584.jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faceshttps://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image9gdi-1690545903584.jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces",
+      "title": "Fotomontaj xizmati",
+      "text": "Bu servis xizmatimiz orqali siz o'z ehtiyojingizga mos ajoyib rasmlar va reklamalar yaratishingiz va foydalanishingiz mumkin."
+    }
+  ],
+  "loyihalar": [
+    {
+      "id": 1,
+      "title": "Telegram bot",
+      "img": "https://media.licdn.com/dms/image/D4D12AQHsQaiBCSSGWQ/article-cover_image-shrink_720_1280/0/1686007282617?e=2147483647&v=beta&t=xMXgLozNdTBVOZdwTptoN2ggQeRTs3y2nYBndbecay0",
+      "text": "Bu bot bizning jamoamiz azosi tomonidan yaratilgan va hozirda ishlab kelmoqda."
+    },
+    {
+      "id": 2,
+      "title": "Biznes Website",
+      "img": "https://img.freepik.com/free-psd/business-company-landing-page-template_23-2148924994.jpg",
+      "text": "Bu website bizning jamoamiz azosi tomonidan yaratilgan va hozirda ishlab kelmoqda."
+    },
+    {
+      "id": 3,
+      "img": "https://www.apptunix.com/blog/wp-content/uploads/sites/3/2019/10/mobile-apps-in-business-copy-5.jpg",
+      "title": "Mobil Ilova",
+      "text": "Bu ilova bizning jamoamiz azosi tomonidan Android va IOS platformalari uchun yaratilgan va hozirda ishlab kelmoqda."
+    },
+    {
+      "id": 4,
+      "img": "https://designwebkit.com/wp-content/uploads/2018/09/elearning.jpg",
+      "title": "Online Learning website",
+      "text": "Bu website bizning jamoamiz azosi tomonidan maktab bolalari uchun yaratilgan va hozirda ishlab kelmoqda."
+    }
+  ],
+  "programmers": [
+    {
+      "id": 1,
+      "img": "https://media.licdn.com/dms/image/D4D03AQFtsgNWZFLHQA/profile-displayphoto-shrink_800_800/0/1689514168625?e=2147483647&v=beta&t=o7f8jdrMIW9Jh50wQanmvsWhnmTvkhU__XF-dP7vu4c",
+      "name": "Azizbek Aliyev",
+      "bio": "Salom mening ismim Aliyev Azizbek. Men hozirda fullstack dasturchi sifatida faoliyat yuritmoqdaman. Mening yoshim 18 da. Va hozirda shu loyihani boshqarib kelmoqdaman. Hozirda menda Frontend va Backend dasturlash bo'yicha sertifikatim mavjud.",
+      "date": 2005,
+      "country": "Uzbekistan",
+      "distrikt": "Namangan",
+      "state": "Chust",
+      "school": "10-maktab, 1-sonli KHM, IT Park",
+      "job": "Fullstack Developer"
+    }
+  ]
+}
